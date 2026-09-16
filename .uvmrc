@@ -1,0 +1,5 @@
+# UVM Project Runtime Configuration
+# Automatically detected by 'uvm use'
+
+node 24
+php 8.2
